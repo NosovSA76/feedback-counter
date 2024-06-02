@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-04-feedback",
+  "name": "feedback-counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NosovSA76.github.io/goit-react-hw-04-feedback/",
+  "homepage": "https://NosovSA76.github.io/feedback-counter/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
